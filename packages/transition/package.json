@@ -1,0 +1,7 @@
+{
+  "name": "transition",
+  "version": "1.0.0",
+  "description": "navigation framework inspired by stackflow",
+  "main": "index.js",
+  "license": "MIT"
+}

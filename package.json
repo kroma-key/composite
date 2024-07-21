@@ -1,0 +1,12 @@
+{
+  "name": "composite",
+  "version": "0.1.0",
+  "description": "javascript library for krona key organization",
+  "main": "index.js",
+  "repository": "https://github.com/kroma-key/composite.git",
+  "author": "woodi97 <woodi.daily@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}

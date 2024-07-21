@@ -1,0 +1,7 @@
+{
+  "name": "key",
+  "version": "1.0.0",
+  "description": "a design system for kroma-key organization",
+  "main": "index.js",
+  "license": "MIT"
+}
