@@ -1,0 +1,7 @@
+{
+  "name": "kroma",
+  "version": "1.0.0",
+  "description": "utilities for kroma key organization",
+  "main": "index.js",
+  "license": "MIT"
+}
